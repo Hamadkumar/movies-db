@@ -30,6 +30,12 @@ java -jar movies-db-0.0.1-SNAPSHOT.jar
 
 Or you can run the `mvn install` command and run using the MoviesDbApplication or using the `mvn spring-boot:run` command.
 
+## Screen URL
+
+```
+http://localhost:8090/swagger-ui.html
+```
+
 ## Screen UI
 
 ![MoviesDB-UI](https://user-images.githubusercontent.com/16051087/78248252-e7109300-7509-11ea-98fc-14d02b4b14d2.png)
