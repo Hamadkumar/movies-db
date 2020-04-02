@@ -1,6 +1,6 @@
 # MoviesDB
 
-    MoviesDB is an resutful Spring boot application to perform CRUD operations to retrieve informations about movies like title,description,image path,video path and so on. It has pagination support by using Pageable interface.It also supports fetching latest movie details from https://www.themoviedb.org/.
+MoviesDB is an resutful Spring boot application to perform CRUD operations to retrieve informations about movies like title,description,image path,video path and so on. It has pagination support by using Pageable interface.It also supports fetching latest movie details from https://www.themoviedb.org/.
 
 ## Getting Started
 Clone the project to your local repository.
@@ -32,7 +32,7 @@ Or you can run the `mvn install` command and run using the MoviesDbApplication o
 
 ## Screen UI
 
-![alt text](https://github.com/Hamadkumar/movies-db/src/main/resources/img/movies-db.png)
+![alt text](https://github.com/Hamadkumar/movies-db/tree/master/src/main/resources/img/movies-db.png)
 
 ## Built with
 
