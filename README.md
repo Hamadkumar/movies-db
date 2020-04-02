@@ -32,7 +32,7 @@ Or you can run the `mvn install` command and run using the MoviesDbApplication o
 
 ## Screen UI
 
-![alt text](https://github.com/Hamadkumar/movies-db/tree/master/src/main/resources/img/movies-db.png)
+![MoviesDB-UI](https://user-images.githubusercontent.com/16051087/78248252-e7109300-7509-11ea-98fc-14d02b4b14d2.png)
 
 ## Built with
 
