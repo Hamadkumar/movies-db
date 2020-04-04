@@ -1,6 +1,6 @@
 # MoviesDB
 
-MoviesDB is an resutful Spring boot application to perform CRUD operations to retrieve informations about movies like title,description,image path,video path and so on. It has pagination support by using Pageable interface.It also supports fetching latest movie details from https://www.themoviedb.org/.
+MoviesDB is an restful Spring boot application to perform CRUD operations to retrieve information about movies like title,description,image path,video path and so on. It has pagination support by using Pageable interface.It also supports fetching latest movie details from https://www.themoviedb.org/.
 
 ## Getting Started
 Clone the project to your local repository.
